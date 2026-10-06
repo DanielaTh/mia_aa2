@@ -1,0 +1,9 @@
+# Dependencias externas usadas por los notebooks del proyecto
+torch
+torchvision
+tqdm
+matplotlib
+numpy
+datasets
+scikit-learn
+gensim
