@@ -1,9 +1,15 @@
-# Dependencias externas usadas por los notebooks del proyecto
+# Dependencias usadas por los notebooks del proyecto
 torch
 torchvision
+torch_geometric
 tqdm
 matplotlib
 numpy
-datasets
 scikit-learn
 gensim
+datasets
+transformers
+accelerate
+peft
+sentence-transformers
+jupyter
